@@ -1,0 +1,56 @@
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\MainWindow.g.cs
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\App.g.cs
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office_MarkupCompile.cache
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office_MarkupCompile.lref
+D:\Course_2\МДК05.02\пр2\Passport Office\bin\Debug\Passport Office.exe.config
+D:\Course_2\МДК05.02\пр2\Passport Office\bin\Debug\Passport Office.exe
+D:\Course_2\МДК05.02\пр2\Passport Office\bin\Debug\Passport Office.pdb
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\MainWindow.baml
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.g.resources
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport_Office.Properties.Resources.resources
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.csproj.GenerateResource.cache
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.csproj.CoreCompileInputs.cache
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.exe
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.pdb
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\AddPasport.g.cs
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\AddPasport.baml
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.csproj.AssemblyReference.cache
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\UpdatePasport.g.cs
+D:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\UpdatePasport.baml
+F:\Course_2\МДК05.02\пр2\Passport Office\bin\Debug\Passport Office.exe.config
+F:\Course_2\МДК05.02\пр2\Passport Office\bin\Debug\Passport Office.exe
+F:\Course_2\МДК05.02\пр2\Passport Office\bin\Debug\Passport Office.pdb
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.csprojAssemblyReference.cache
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\MainWindow.g.cs
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\AddPasport.g.cs
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\UpdatePasport.g.cs
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\App.g.cs
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office_MarkupCompile.cache
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office_MarkupCompile.lref
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\MainWindow.baml
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\AddPasport.baml
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\UpdatePasport.baml
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.g.resources
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport_Office.Properties.Resources.resources
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.csproj.GenerateResource.cache
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.exe
+F:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.pdb
+G:\Course_2\МДК05.02\пр2\Passport Office\bin\Debug\Passport Office.exe.config
+G:\Course_2\МДК05.02\пр2\Passport Office\bin\Debug\Passport Office.exe
+G:\Course_2\МДК05.02\пр2\Passport Office\bin\Debug\Passport Office.pdb
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.csproj.AssemblyReference.cache
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\MainWindow.g.cs
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\AddPasport.g.cs
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\UpdatePasport.g.cs
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\App.g.cs
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office_MarkupCompile.cache
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office_MarkupCompile.lref
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\MainWindow.baml
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\AddPasport.baml
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Windows\UpdatePasport.baml
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.g.resources
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport_Office.Properties.Resources.resources
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.csproj.GenerateResource.cache
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.csproj.CoreCompileInputs.cache
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.exe
+G:\Course_2\МДК05.02\пр2\Passport Office\obj\Debug\Passport Office.pdb
